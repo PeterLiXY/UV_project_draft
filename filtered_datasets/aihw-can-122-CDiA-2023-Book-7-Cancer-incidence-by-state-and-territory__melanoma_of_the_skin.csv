@@ -1,0 +1,1027 @@
+﻿Data type,Cancer group/site,Year,Sex,State or Territory,Count,"Age-standardised rate 2001 Australian Standard Population  (per 100,000)","Age-standardised rate 2023 Australian population  (per 100,000)",Column I,ICD-10 codes,Column K,Column L
+Incidence,Melanoma of the skin,1982,Males,New South Wales,650,28.9,33.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1982,Males,Victoria,279,16.8,19.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1982,Males,Queensland,472,49.3,56.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1982,Males,Western Australia,164,31.1,35.6,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1982,Males,South Australia,121,21.4,23.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1982,Males,Tasmania,30,17.6,19.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1982,Males,Australian Capital Territory,NULL,NULL,NULL,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1982,Males,Northern Territory,NULL,NULL,NULL,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1982,Males,Australia,1736,27.9,31.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1982,Females,New South Wales,651,26.2,28.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1982,Females,Victoria,365,19.9,21.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1982,Females,Queensland,427,40.8,43.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1982,Females,Western Australia,173,30.6,33.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1982,Females,South Australia,127,21.1,22.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1982,Females,Tasmania,38,20.1,22.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1982,Females,Australian Capital Territory,NULL,NULL,NULL,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1982,Females,Northern Territory,NULL,NULL,NULL,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1982,Females,Australia,1802,26.3,28.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1982,Persons,New South Wales,1301,27,30,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1982,Persons,Victoria,644,18.4,20.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1982,Persons,Queensland,899,44.2,49.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1982,Persons,Western Australia,337,30.6,34.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1982,Persons,South Australia,248,21.2,22.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1982,Persons,Tasmania,68,18.8,21.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1982,Persons,Australian Capital Territory,NULL,NULL,NULL,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1982,Persons,Northern Territory,NULL,NULL,NULL,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1982,Persons,Australia,3538,26.7,29.6,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1983,Males,New South Wales,693,31.1,36,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1983,Males,Victoria,319,18.8,21.6,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1983,Males,Queensland,456,45.2,52.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1983,Males,Western Australia,165,31,35.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1983,Males,South Australia,120,20.8,23.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1983,Males,Tasmania,31,17.8,20.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1983,Males,Australian Capital Territory,NULL,NULL,NULL,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1983,Males,Northern Territory,NULL,NULL,NULL,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1983,Males,Australia,1820,28.8,33.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1983,Females,New South Wales,730,29.3,31.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1983,Females,Victoria,402,21.8,24,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1983,Females,Queensland,461,41.5,44.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1983,Females,Western Australia,165,27.4,29.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1983,Females,South Australia,148,23.3,25.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1983,Females,Tasmania,45,23.7,25.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1983,Females,Australian Capital Territory,NULL,NULL,NULL,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1983,Females,Northern Territory,NULL,NULL,NULL,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1983,Females,Australia,1979,28.2,30.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1983,Persons,New South Wales,1423,29.6,32.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1983,Persons,Victoria,721,20.3,22.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1983,Persons,Queensland,917,42.5,47.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1983,Persons,Western Australia,330,28.8,32.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1983,Persons,South Australia,268,21.9,24.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1983,Persons,Tasmania,76,20.8,23.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1983,Persons,Australian Capital Territory,NULL,NULL,NULL,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1983,Persons,Northern Territory,NULL,NULL,NULL,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1983,Persons,Australia,3799,28.1,31.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1984,Males,New South Wales,762,33.8,39.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1984,Males,Victoria,331,19.1,21.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1984,Males,Queensland,535,52.7,60.6,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1984,Males,Western Australia,173,31.5,36.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1984,Males,South Australia,124,21.4,24.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1984,Males,Tasmania,31,18.1,20.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1984,Males,Australian Capital Territory,NULL,NULL,NULL,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1984,Males,Northern Territory,NULL,NULL,NULL,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1984,Males,Australia,1994,31.2,36,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1984,Females,New South Wales,738,29.3,31.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1984,Females,Victoria,414,21.8,23.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1984,Females,Queensland,504,45.4,49.6,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1984,Females,Western Australia,174,28.8,31.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1984,Females,South Australia,160,24.2,27,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1984,Females,Tasmania,35,18.2,21,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1984,Females,Australian Capital Territory,NULL,NULL,NULL,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1984,Females,Northern Territory,NULL,NULL,NULL,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1984,Females,Australia,2050,28.8,31.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1984,Persons,New South Wales,1500,30.9,34.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1984,Persons,Victoria,745,20.4,22.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1984,Persons,Queensland,1039,48.4,54.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1984,Persons,Western Australia,347,29.8,33.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1984,Persons,South Australia,284,22.8,25.6,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1984,Persons,Tasmania,66,18.1,20.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1984,Persons,Australian Capital Territory,NULL,NULL,NULL,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1984,Persons,Northern Territory,NULL,NULL,NULL,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1984,Persons,Australia,4044,29.6,33.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1985,Males,New South Wales,831,36,41.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1985,Males,Victoria,396,23.2,26.6,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1985,Males,Queensland,547,51.4,60,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1985,Males,Western Australia,212,38.7,44.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1985,Males,South Australia,165,27.1,30.6,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1985,Males,Tasmania,31,16,18.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1985,Males,Australian Capital Territory,NULL,NULL,NULL,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1985,Males,Northern Territory,NULL,NULL,NULL,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1985,Males,Australia,2224,33.9,39.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1985,Females,New South Wales,780,30,32.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1985,Females,Victoria,472,24.6,26.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1985,Females,Queensland,540,46.9,50.6,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1985,Females,Western Australia,208,34.3,37,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1985,Females,South Australia,198,29.9,33.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1985,Females,Tasmania,49,24.5,26.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1985,Females,Australian Capital Territory,NULL,NULL,NULL,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1985,Females,Northern Territory,NULL,NULL,NULL,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1985,Females,Australia,2288,31.4,34.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1985,Persons,New South Wales,1611,32.3,36.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1985,Persons,Victoria,868,23.6,26.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1985,Persons,Queensland,1087,48.4,54.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1985,Persons,Western Australia,420,35.8,39.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1985,Persons,South Australia,363,28.6,32.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1985,Persons,Tasmania,80,20.4,22.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1985,Persons,Australian Capital Territory,NULL,NULL,NULL,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1985,Persons,Northern Territory,NULL,NULL,NULL,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1985,Persons,Australia,4512,32.1,36,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1986,Males,New South Wales,915,38.4,44.6,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1986,Males,Victoria,376,21.2,24.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1986,Males,Queensland,639,58.9,68.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1986,Males,Western Australia,226,38.8,44.6,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1986,Males,South Australia,168,27.4,31.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1986,Males,Tasmania,33,17.6,19.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1986,Males,Australian Capital Territory,30,32.8,36.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1986,Males,Northern Territory,6,13.5,15,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1986,Males,Australia,2404,35.6,41.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1986,Females,New South Wales,787,29.9,33,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1986,Females,Victoria,452,23,25.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1986,Females,Queensland,598,50.7,54.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1986,Females,Western Australia,184,28.4,30.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1986,Females,South Australia,188,28.4,31.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1986,Females,Tasmania,54,26.7,28.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1986,Females,Australian Capital Territory,27,25.9,26.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1986,Females,Northern Territory,5,10.1,10.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1986,Females,Australia,2305,31.1,33.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1986,Persons,New South Wales,1702,33.5,37.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1986,Persons,Victoria,828,22,24.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1986,Persons,Queensland,1237,53.9,60.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1986,Persons,Western Australia,410,33,36.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1986,Persons,South Australia,356,27.6,31.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1986,Persons,Tasmania,87,22.1,24.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1986,Persons,Australian Capital Territory,57,28.9,30.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1986,Persons,Northern Territory,11,11.9,12.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1986,Persons,Australia,4709,32.8,36.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1987,Males,New South Wales,1105,45,51.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1987,Males,Victoria,481,26.1,29.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1987,Males,Queensland,738,65.1,75.6,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1987,Males,Western Australia,267,44.3,51.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1987,Males,South Australia,185,30.4,35.6,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1987,Males,Tasmania,45,21.9,24.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1987,Males,Australian Capital Territory,36,37.5,41,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1987,Males,Northern Territory,8,15.9,17.6,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1987,Males,Australia,2877,41.2,47.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1987,Females,New South Wales,1004,37.4,40.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1987,Females,Victoria,516,25.9,28.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1987,Females,Queensland,629,51.3,55.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1987,Females,Western Australia,214,32.1,34.6,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1987,Females,South Australia,201,29.3,33,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1987,Females,Tasmania,68,33.1,35,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1987,Females,Australian Capital Territory,33,30.6,31.6,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1987,Females,Northern Territory,5,9,9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1987,Females,Australia,2685,35.3,38.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1987,Persons,New South Wales,2109,40.6,45.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1987,Persons,Victoria,997,25.9,28.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1987,Persons,Queensland,1367,57.2,64.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1987,Persons,Western Australia,481,37.6,41.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1987,Persons,South Australia,386,29.6,34.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1987,Persons,Tasmania,113,27.5,29.6,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1987,Persons,Australian Capital Territory,69,33.6,35.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1987,Persons,Northern Territory,13,12.8,13.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1987,Persons,Australia,5562,37.8,42.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1988,Males,New South Wales,1226,49.8,57.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1988,Males,Victoria,562,31.4,35.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1988,Males,Queensland,753,64.8,74.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1988,Males,Western Australia,298,48.5,57.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1988,Males,South Australia,231,37.9,42.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1988,Males,Tasmania,62,30.7,34.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1988,Males,Australian Capital Territory,40,42.5,46.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1988,Males,Northern Territory,10,17.7,19.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1988,Males,Australia,3199,45.7,52.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1988,Females,New South Wales,1042,37.8,41.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1988,Females,Victoria,564,27.5,30.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1988,Females,Queensland,615,48.5,52.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1988,Females,Western Australia,250,37.7,41.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1988,Females,South Australia,227,33,36.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1988,Females,Tasmania,68,32.4,35.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1988,Females,Australian Capital Territory,35,33.2,34.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1988,Females,Northern Territory,8,14.8,15.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1988,Females,Australia,2820,36.1,39.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1988,Persons,New South Wales,2268,42.9,48.6,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1988,Persons,Victoria,1126,28.9,32.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1988,Persons,Queensland,1368,56,62.6,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1988,Persons,Western Australia,548,42,47.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1988,Persons,South Australia,458,34.9,38.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1988,Persons,Tasmania,130,31.8,35.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1988,Persons,Australian Capital Territory,76,37.3,40.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1988,Persons,Northern Territory,17,17,18.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1988,Persons,Australia,6019,40.2,45.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1989,Males,New South Wales,1215,48.3,56.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1989,Males,Victoria,548,29.9,35.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1989,Males,Queensland,746,62.8,72.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1989,Males,Western Australia,263,41.9,49.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1989,Males,South Australia,236,38.7,45.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1989,Males,Tasmania,53,28.1,32.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1989,Males,Australian Capital Territory,41,42,46.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1989,Males,Northern Territory,11,18.8,20.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1989,Males,Australia,3109,43.7,51.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1989,Females,New South Wales,892,31.9,35.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1989,Females,Victoria,561,27,30,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1989,Females,Queensland,638,49.5,54.6,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1989,Females,Western Australia,222,31.3,34.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1989,Females,South Australia,199,28.4,30.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1989,Females,Tasmania,62,27.3,29.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1989,Females,Australian Capital Territory,38,34.6,36.6,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1989,Females,Northern Territory,8,15.3,16.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1989,Females,Australia,2617,32.9,36.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1989,Persons,New South Wales,2107,39,44.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1989,Persons,Victoria,1109,27.9,31.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1989,Persons,Queensland,1384,55.4,62.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1989,Persons,Western Australia,485,35.9,41.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1989,Persons,South Australia,435,32.4,36.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1989,Persons,Tasmania,115,27.2,29.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1989,Persons,Australian Capital Territory,79,37.8,40.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1989,Persons,Northern Territory,19,17.7,19.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1989,Persons,Australia,5726,37.4,42.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1990,Males,New South Wales,1168,46.8,55.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1990,Males,Victoria,579,31.4,36.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1990,Males,Queensland,765,62.9,73.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1990,Males,Western Australia,297,45.9,53.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1990,Males,South Australia,221,33.6,37.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1990,Males,Tasmania,66,32.1,36.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1990,Males,Australian Capital Territory,42,44.6,50.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1990,Males,Northern Territory,13,25.7,28.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1990,Males,Australia,3151,43.7,51.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1990,Females,New South Wales,944,33.1,36.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1990,Females,Victoria,522,24.9,27.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1990,Females,Queensland,630,47.3,52.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1990,Females,Western Australia,216,31,34.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1990,Females,South Australia,247,34,38.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1990,Females,Tasmania,85,38,42,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1990,Females,Australian Capital Territory,38,34.2,36.6,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1990,Females,Northern Territory,9,15.1,15.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1990,Females,Australia,2687,33.1,37,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1990,Persons,New South Wales,2112,38.9,44.6,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1990,Persons,Victoria,1101,27.6,31.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1990,Persons,Queensland,1395,54.1,61.6,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1990,Persons,Western Australia,513,37.8,43.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1990,Persons,South Australia,468,33.9,38,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1990,Persons,Tasmania,151,34.8,39.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1990,Persons,Australian Capital Territory,80,38.6,42.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1990,Persons,Northern Territory,22,20.9,22.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1990,Persons,Australia,5838,37.7,43,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1991,Males,New South Wales,1151,44.9,53,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1991,Males,Victoria,558,28.8,33.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1991,Males,Queensland,771,60.5,70,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1991,Males,Western Australia,336,51.1,59.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1991,Males,South Australia,235,38.6,46,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1991,Males,Tasmania,75,37.7,44.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1991,Males,Australian Capital Territory,42,44.3,51,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1991,Males,Northern Territory,15,29.1,32.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1991,Males,Australia,3185,43.1,50.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1991,Females,New South Wales,959,33.2,36.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1991,Females,Victoria,571,26.5,29.6,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1991,Females,Queensland,644,46.5,51.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1991,Females,Western Australia,268,36.9,41.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1991,Females,South Australia,225,30.7,34.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1991,Females,Tasmania,68,31.4,33.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1991,Females,Australian Capital Territory,38,32.6,35.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1991,Females,Northern Territory,10,18.2,20.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1991,Females,Australia,2782,33.6,37.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1991,Persons,New South Wales,2110,38.1,43.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1991,Persons,Victoria,1129,27.4,31.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1991,Persons,Queensland,1415,52.9,59.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1991,Persons,Western Australia,604,43.1,49.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1991,Persons,South Australia,460,33.5,38.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1991,Persons,Tasmania,143,34,38.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1991,Persons,Australian Capital Territory,79,37.5,42,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1991,Persons,Northern Territory,26,24.4,27.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1991,Persons,Australia,5967,37.7,42.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1992,Males,New South Wales,1200,45.7,54.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1992,Males,Victoria,711,37.4,44.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1992,Males,Queensland,886,68.9,81.6,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1992,Males,Western Australia,357,53.1,63.6,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1992,Males,South Australia,296,45.5,53.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1992,Males,Tasmania,69,31,34.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1992,Males,Australian Capital Territory,40,44,52.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1992,Males,Northern Territory,19,39.8,46,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1992,Males,Australia,3586,47.8,56.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1992,Females,New South Wales,978,33.5,37.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1992,Females,Victoria,667,30.2,34.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1992,Females,Queensland,687,48.9,54.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1992,Females,Western Australia,254,33.4,37.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1992,Females,South Australia,286,38.4,42.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1992,Females,Tasmania,58,25.2,27.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1992,Females,Australian Capital Territory,36,30.7,33.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1992,Females,Northern Territory,12,19.2,21,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1992,Females,Australia,2980,35.4,39.6,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1992,Persons,New South Wales,2178,38.8,44.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1992,Persons,Victoria,1378,33.1,38.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1992,Persons,Queensland,1573,57.7,66.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1992,Persons,Western Australia,611,41.9,48.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1992,Persons,South Australia,582,41.3,47.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1992,Persons,Tasmania,127,28,31.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1992,Persons,Australian Capital Territory,76,36,41,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1992,Persons,Northern Territory,31,30.2,34.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1992,Persons,Australia,6566,40.7,46.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1993,Males,New South Wales,1428,54,64.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1993,Males,Victoria,653,34.1,41.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1993,Males,Queensland,861,65.6,77.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1993,Males,Western Australia,383,55.1,64.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1993,Males,South Australia,266,39.8,46.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1993,Males,Tasmania,68,33.7,41.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1993,Males,Australian Capital Territory,38,38.7,45.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1993,Males,Northern Territory,19,37.5,43.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1993,Males,Australia,3712,48.9,58.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1993,Females,New South Wales,1052,35.5,40,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1993,Females,Victoria,608,27.4,30.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1993,Females,Queensland,665,45.3,50.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1993,Females,Western Australia,332,42.8,46.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1993,Females,South Australia,270,35.6,40.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1993,Females,Tasmania,71,30.5,34.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1993,Females,Australian Capital Territory,36,30.1,32.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1993,Females,Northern Territory,12,19.3,20.6,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1993,Females,Australia,3058,35.7,39.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1993,Persons,New South Wales,2480,43.5,50.6,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1993,Persons,Victoria,1261,30,34.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1993,Persons,Queensland,1526,54.5,62.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1993,Persons,Western Australia,715,47.8,54.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1993,Persons,South Australia,536,37.4,42.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1993,Persons,Tasmania,139,31.3,36.6,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1993,Persons,Australian Capital Territory,74,33.3,37.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1993,Persons,Northern Territory,31,28.6,32.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1993,Persons,Australia,6770,41.3,47.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1994,Males,New South Wales,1351,50.7,60.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1994,Males,Victoria,683,34.9,41.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1994,Males,Queensland,925,67.3,78.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1994,Males,Western Australia,424,59.2,68.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1994,Males,South Australia,310,45.3,52.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1994,Males,Tasmania,81,37.8,44.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1994,Males,Australian Capital Territory,39,39.3,47,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1994,Males,Northern Territory,19,39.2,45.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1994,Males,Australia,3832,49.3,58,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1994,Females,New South Wales,1018,33.8,38,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1994,Females,Victoria,632,28.2,31.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1994,Females,Queensland,702,46.7,51.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1994,Females,Western Australia,351,44.5,49.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1994,Females,South Australia,303,39.5,44.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1994,Females,Tasmania,72,30.8,33.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1994,Females,Australian Capital Territory,35,28.1,30.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1994,Females,Northern Territory,13,20.5,21.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1994,Females,Australia,3118,35.7,39.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1994,Persons,New South Wales,2369,41,47.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1994,Persons,Victoria,1315,30.9,35.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1994,Persons,Queensland,1627,56.3,64,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1994,Persons,Western Australia,775,51.1,57.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1994,Persons,South Australia,613,41.8,47.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1994,Persons,Tasmania,153,33.5,38.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1994,Persons,Australian Capital Territory,74,32.7,37.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1994,Persons,Northern Territory,32,29.8,33.6,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1994,Persons,Australia,6950,41.6,47.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1995,Males,New South Wales,1422,52.5,63.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1995,Males,Victoria,770,38.6,45.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1995,Males,Queensland,1035,72.8,84.6,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1995,Males,Western Australia,479,64.6,76.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1995,Males,South Australia,288,42.2,48.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1995,Males,Tasmania,92,42.4,47.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1995,Males,Australian Capital Territory,43,41.9,51,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1995,Males,Northern Territory,18,33.1,38,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1995,Males,Australia,4155,52.4,61.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1995,Females,New South Wales,963,31.3,35.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1995,Females,Victoria,765,33.5,37.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1995,Females,Queensland,783,50.5,55.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1995,Females,Western Australia,358,43.8,48.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1995,Females,South Australia,296,38.4,42.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1995,Females,Tasmania,92,39,42.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1995,Females,Australian Capital Territory,38,30.5,33.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1995,Females,Northern Territory,14,22.6,25,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1995,Females,Australia,3319,37.2,41.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1995,Persons,New South Wales,2385,40.5,47.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1995,Persons,Victoria,1535,35.6,40.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1995,Persons,Queensland,1818,60.7,68.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1995,Persons,Western Australia,837,53.4,61.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1995,Persons,South Australia,584,39.6,44.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1995,Persons,Tasmania,184,40.6,44.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1995,Persons,Australian Capital Territory,81,35.1,40.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1995,Persons,Northern Territory,32,28,31.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1995,Persons,Australia,7474,43.8,50.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1996,Males,New South Wales,1462,53.1,64.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1996,Males,Victoria,864,42.7,50.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1996,Males,Queensland,1113,77.2,90.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1996,Males,Western Australia,430,56.9,66.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1996,Males,South Australia,311,45.4,54.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1996,Males,Tasmania,94,43.2,50.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1996,Males,Australian Capital Territory,44,42.5,51.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1996,Males,Northern Territory,20,35.5,40.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1996,Males,Australia,4351,54.1,64.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1996,Females,New South Wales,1069,34,38.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1996,Females,Victoria,820,35.7,39.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1996,Females,Queensland,864,54.6,60.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1996,Females,Western Australia,310,37.7,41.6,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1996,Females,South Australia,272,34.9,39.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1996,Females,Tasmania,95,40,42.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1996,Females,Australian Capital Territory,39,30.8,34.6,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1996,Females,Northern Territory,15,21.6,22.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1996,Females,Australia,3488,38.5,42.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1996,Persons,New South Wales,2531,42.2,49.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1996,Persons,Victoria,1684,38.4,43.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1996,Persons,Queensland,1977,64.7,74,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1996,Persons,Western Australia,740,46.4,52.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1996,Persons,South Australia,583,39.1,45.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1996,Persons,Tasmania,189,41.1,45.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1996,Persons,Australian Capital Territory,84,35.5,41.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1996,Persons,Northern Territory,35,28.6,31.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1996,Persons,Australia,7839,45.2,52,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1997,Males,New South Wales,1633,57.1,68.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1997,Males,Victoria,899,42.9,50.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1997,Males,Queensland,1236,82.8,97.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1997,Males,Western Australia,398,51.7,61.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1997,Males,South Australia,344,48.2,55.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1997,Males,Tasmania,91,41.8,48.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1997,Males,Australian Capital Territory,51,46,55.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1997,Males,Northern Territory,19,28.8,31.6,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1997,Males,Australia,4696,56.3,66.6,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1997,Females,New South Wales,1162,36.4,41.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1997,Females,Victoria,913,38.8,43.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1997,Females,Queensland,893,55.2,60.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1997,Females,Western Australia,294,34.3,38.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1997,Females,South Australia,319,40.2,45.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1997,Females,Tasmania,98,40.2,44.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1997,Females,Australian Capital Territory,42,32.2,36.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1997,Females,Northern Territory,16,23.3,24.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1997,Females,Australia,3751,40.6,45.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1997,Persons,New South Wales,2795,45.6,53.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1997,Persons,Victoria,1812,40.4,46.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1997,Persons,Queensland,2129,67.8,76.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1997,Persons,Western Australia,692,42.4,48.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1997,Persons,South Australia,663,43.6,49.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1997,Persons,Tasmania,189,40.5,45.6,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1997,Persons,Australian Capital Territory,93,38.3,44.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1997,Persons,Northern Territory,36,26.1,28.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1997,Persons,Australia,8447,47.6,54.6,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1998,Males,New South Wales,1558,53.7,64.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1998,Males,Victoria,791,37.7,44.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1998,Males,Queensland,1230,79.8,93.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1998,Males,Western Australia,427,54.3,64.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1998,Males,South Australia,301,42.2,50.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1998,Males,Tasmania,86,39.4,47.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1998,Males,Australian Capital Territory,56,48.5,57.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1998,Males,Northern Territory,22,31.5,34.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1998,Males,Australia,4482,53,63,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1998,Females,New South Wales,1120,34.4,38.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1998,Females,Victoria,751,31.5,35,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1998,Females,Queensland,908,54.8,61,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1998,Females,Western Australia,327,37.6,42.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1998,Females,South Australia,276,34.3,38.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1998,Females,Tasmania,84,34.5,38,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1998,Females,Australian Capital Territory,42,31.5,35.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1998,Females,Northern Territory,15,20.7,21.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1998,Females,Australia,3518,37.4,41.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1998,Persons,New South Wales,2678,42.9,50.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1998,Persons,Victoria,1542,34,38.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1998,Persons,Queensland,2138,66.5,76,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1998,Persons,Western Australia,754,45.1,52.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1998,Persons,South Australia,577,37.5,43.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1998,Persons,Tasmania,170,36,41.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1998,Persons,Australian Capital Territory,97,39.3,45.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1998,Persons,Northern Territory,37,26.5,28.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1998,Persons,Australia,8000,44.3,51.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1999,Males,New South Wales,1650,55.4,66.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1999,Males,Victoria,884,41.6,49.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1999,Males,Queensland,1152,73.3,86.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1999,Males,Western Australia,550,68.1,81.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1999,Males,South Australia,317,43.7,52.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1999,Males,Tasmania,89,38.7,44.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1999,Males,Australian Capital Territory,61,51.1,60.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1999,Males,Northern Territory,24,34.4,38.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1999,Males,Australia,4736,54.8,65.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1999,Females,New South Wales,1129,34.1,38.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1999,Females,Victoria,784,32,36.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1999,Females,Queensland,898,52.8,58.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1999,Females,Western Australia,395,43.7,48.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1999,Females,South Australia,288,35.7,39.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1999,Females,Tasmania,102,41.2,45,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1999,Females,Australian Capital Territory,45,33.6,38.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1999,Females,Northern Territory,16,25.8,28.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1999,Females,Australia,3661,38.1,42.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1999,Persons,New South Wales,2779,43.6,50.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1999,Persons,Victoria,1668,36,41.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1999,Persons,Queensland,2050,62.1,71,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1999,Persons,Western Australia,945,54.7,63.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1999,Persons,South Australia,605,38.8,44.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1999,Persons,Tasmania,191,39.9,44.6,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1999,Persons,Australian Capital Territory,107,41.8,48.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1999,Persons,Northern Territory,39,30.6,34.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,1999,Persons,Australia,8397,45.5,52.6,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2000,Males,New South Wales,1636,54,65.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2000,Males,Victoria,892,40.6,48.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2000,Males,Queensland,1301,80.7,95,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2000,Males,Western Australia,532,63.5,75.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2000,Males,South Australia,339,45.8,55.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2000,Males,Tasmania,110,48.7,58,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2000,Males,Australian Capital Territory,61,49,57,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2000,Males,Northern Territory,26,35.8,39.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2000,Males,Australia,4890,55.4,66.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2000,Females,New South Wales,1189,35.1,40.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2000,Females,Victoria,839,33.5,38.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2000,Females,Queensland,964,55.1,61.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2000,Females,Western Australia,372,40.4,45.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2000,Females,South Australia,275,33.1,37.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2000,Females,Tasmania,118,48,52.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2000,Females,Australian Capital Territory,43,30.7,34.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2000,Females,Northern Territory,19,28,30.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2000,Females,Australia,3826,38.9,43.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2000,Persons,New South Wales,2825,43.5,51,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2000,Persons,Victoria,1731,36.5,42.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2000,Persons,Queensland,2265,67,76.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2000,Persons,Western Australia,904,51.1,59,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2000,Persons,South Australia,614,38.5,44.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2000,Persons,Tasmania,228,47.3,53.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2000,Persons,Australian Capital Territory,105,39.4,45.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2000,Persons,Northern Territory,45,32.3,35.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2000,Persons,Australia,8716,46.2,53.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2001,Males,New South Wales,1760,56.9,69.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2001,Males,Victoria,927,41.5,49.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2001,Males,Queensland,1357,81.9,97.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2001,Males,Western Australia,511,59.6,70.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2001,Males,South Australia,369,48.8,56.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2001,Males,Tasmania,103,44.3,53.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2001,Males,Australian Capital Territory,61,47.1,54.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2001,Males,Northern Territory,26,35.8,40.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2001,Males,Australia,5101,56.4,67.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2001,Females,New South Wales,1245,36.1,41.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2001,Females,Victoria,813,32.2,36.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2001,Females,Queensland,992,55.5,61.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2001,Females,Western Australia,396,42,47.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2001,Females,South Australia,254,30.5,33.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2001,Females,Tasmania,106,42.2,46.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2001,Females,Australian Capital Territory,48,33.4,37.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2001,Females,Northern Territory,21,30.1,32.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2001,Females,Australia,3896,38.9,43.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2001,Persons,New South Wales,3005,45.3,53.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2001,Persons,Victoria,1740,36,41.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2001,Persons,Queensland,2349,67.6,77.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2001,Persons,Western Australia,907,50,57.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2001,Persons,South Australia,623,38.9,44.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2001,Persons,Tasmania,209,42.5,48.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2001,Persons,Australian Capital Territory,109,40.1,46.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2001,Persons,Northern Territory,47,33.3,37.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2001,Persons,Australia,8997,46.7,54.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2002,Males,New South Wales,1987,62.8,76.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2002,Males,Victoria,996,43.5,52.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2002,Males,Queensland,1465,85.5,101.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2002,Males,Western Australia,637,72.1,85.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2002,Males,South Australia,339,44.1,52.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2002,Males,Tasmania,115,48.3,55.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2002,Males,Australian Capital Territory,59,44.2,51.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2002,Males,Northern Territory,25,33.3,37.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2002,Males,Australia,5620,60.7,72.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2002,Females,New South Wales,1347,38.5,44.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2002,Females,Victoria,834,32.2,36.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2002,Females,Queensland,1096,59.3,66.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2002,Females,Western Australia,444,46.2,52.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2002,Females,South Australia,333,39.1,44.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2002,Females,Tasmania,109,42.5,47.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2002,Females,Australian Capital Territory,49,33.5,38,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2002,Females,Northern Territory,20,28.3,31.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2002,Females,Australia,4235,41.4,46.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2002,Persons,New South Wales,3334,49.4,58.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2002,Persons,Victoria,1830,37.2,43.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2002,Persons,Queensland,2561,71.4,82.6,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2002,Persons,Western Australia,1081,58.1,67.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2002,Persons,South Australia,672,41.1,47.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2002,Persons,Tasmania,224,45.2,51.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2002,Persons,Australian Capital Territory,108,38.8,44.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2002,Persons,Northern Territory,45,31.2,34.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2002,Persons,Australia,9855,50.1,58.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2003,Males,New South Wales,1899,59.6,72.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2003,Males,Victoria,985,42.2,51,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2003,Males,Queensland,1422,79.9,95.6,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2003,Males,Western Australia,674,73.8,87.6,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2003,Males,South Australia,377,48.4,58.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2003,Males,Tasmania,119,49.6,57.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2003,Males,Australian Capital Territory,59,45.1,53.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2003,Males,Northern Territory,27,36.2,41.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2003,Males,Australia,5578,59.1,71,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2003,Females,New South Wales,1370,38.5,44,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2003,Females,Victoria,774,29.4,33.6,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2003,Females,Queensland,1017,53.4,59.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2003,Females,Western Australia,416,42.2,48,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2003,Females,South Australia,287,33.3,37.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2003,Females,Tasmania,98,37.9,41.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2003,Females,Australian Capital Territory,50,33,37.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2003,Females,Northern Territory,22,28.9,31.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2003,Females,Australia,4026,38.7,43.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2003,Persons,New South Wales,3269,47.8,56.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2003,Persons,Victoria,1759,35,41.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2003,Persons,Queensland,2439,65.7,76.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2003,Persons,Western Australia,1090,57.1,66.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2003,Persons,South Australia,664,39.7,46.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2003,Persons,Tasmania,217,43.2,48.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2003,Persons,Australian Capital Territory,109,38.7,44.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2003,Persons,Northern Territory,49,33,36.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2003,Persons,Australia,9604,47.8,55.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2004,Males,New South Wales,2001,61.6,75.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2004,Males,Victoria,1093,45.9,55.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2004,Males,Queensland,1323,72.7,87.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2004,Males,Western Australia,581,63,76.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2004,Males,South Australia,383,48,57.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2004,Males,Tasmania,117,47.1,56.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2004,Males,Australian Capital Territory,60,45.6,54.6,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2004,Males,Northern Territory,28,35.4,39.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2004,Males,Australia,5602,58.2,70.6,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2004,Females,New South Wales,1459,40.7,46.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2004,Females,Victoria,877,32.9,37.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2004,Females,Queensland,1050,53.4,60.6,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2004,Females,Western Australia,414,41.1,46.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2004,Females,South Australia,292,33.1,37.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2004,Females,Tasmania,100,37.4,40.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2004,Females,Australian Capital Territory,53,34.3,38.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2004,Females,Northern Territory,22,25.8,26.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2004,Females,Australia,4274,40.3,45.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2004,Persons,New South Wales,3460,49.8,59,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2004,Persons,Victoria,1970,38.5,45.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2004,Persons,Queensland,2373,62.2,72.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2004,Persons,Western Australia,995,50.9,60.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2004,Persons,South Australia,675,39.9,46.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2004,Persons,Tasmania,217,41.8,48.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2004,Persons,Australian Capital Territory,113,39.5,46,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2004,Persons,Northern Territory,50,30.9,33.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2004,Persons,Australia,9876,48.2,56.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2005,Males,New South Wales,2057,62.5,76.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2005,Males,Victoria,1229,50.2,60.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2005,Males,Queensland,1580,84.4,102,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2005,Males,Western Australia,598,62.7,76.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2005,Males,South Australia,399,49.3,60.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2005,Males,Tasmania,148,59,68.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2005,Males,Australian Capital Territory,69,51.5,62.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2005,Males,Northern Territory,29,38.2,44.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2005,Males,Australia,6139,62.4,75.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2005,Females,New South Wales,1506,41.1,47.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2005,Females,Victoria,1082,39.7,45.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2005,Females,Queensland,1130,56,63.6,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2005,Females,Western Australia,407,39.5,45.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2005,Females,South Australia,328,37.2,42.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2005,Females,Tasmania,136,50.7,55.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2005,Females,Australian Capital Territory,61,39,44,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2005,Females,Northern Territory,20,24.9,26.6,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2005,Females,Australia,4689,43.4,49.6,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2005,Persons,New South Wales,3563,50.5,60.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2005,Persons,Victoria,2311,44.2,51.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2005,Persons,Queensland,2710,69.1,81,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2005,Persons,Western Australia,1005,50.4,59.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2005,Persons,South Australia,727,42.2,50,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2005,Persons,Tasmania,284,54.1,60.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2005,Persons,Australian Capital Territory,130,44.4,51.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2005,Persons,Northern Territory,49,32.1,36,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2005,Persons,Australia,10828,51.8,61.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2006,Males,New South Wales,2180,65.1,80,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2006,Males,Victoria,1220,49.1,60.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2006,Males,Queensland,1488,77.4,93.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2006,Males,Western Australia,635,64.1,78.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2006,Males,South Australia,360,43.9,52.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2006,Males,Tasmania,127,49.8,58.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2006,Males,Australian Capital Territory,73,53.6,65.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2006,Males,Northern Territory,29,35.4,40.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2006,Males,Australia,6105,60.8,74.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2006,Females,New South Wales,1397,37.7,43.6,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2006,Females,Victoria,974,34.7,40.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2006,Females,Queensland,1027,49.3,56.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2006,Females,Western Australia,458,43.6,50,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2006,Females,South Australia,265,29.9,34.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2006,Females,Tasmania,124,45,50,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2006,Females,Australian Capital Territory,61,37.8,42.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2006,Females,Northern Territory,19,24,25.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2006,Females,Australia,4327,39.1,45,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2006,Persons,New South Wales,3577,50.1,60,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2006,Persons,Victoria,2194,41,49,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2006,Persons,Queensland,2515,62.3,73.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2006,Persons,Western Australia,1093,53.2,63.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2006,Persons,South Australia,625,36.2,42.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2006,Persons,Tasmania,251,47.3,54.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2006,Persons,Australian Capital Territory,133,44.8,52.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2006,Persons,Northern Territory,48,30.1,33.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2006,Persons,Australia,10432,49,58.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2007,Males,New South Wales,2127,61.8,76.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2007,Males,Victoria,1188,46.3,56.6,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2007,Males,Queensland,1592,79.5,96.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2007,Males,Western Australia,576,56.5,68.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2007,Males,South Australia,342,40.5,49.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2007,Males,Tasmania,127,48,60.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2007,Males,Australian Capital Territory,72,52.8,64.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2007,Males,Northern Territory,30,35.8,40.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2007,Males,Australia,6037,58.3,71.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2007,Females,New South Wales,1420,37.5,43.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2007,Females,Victoria,986,34.6,39.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2007,Females,Queensland,1127,52.8,59.6,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2007,Females,Western Australia,411,38,44.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2007,Females,South Australia,280,30.7,34.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2007,Females,Tasmania,110,38.3,42.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2007,Females,Australian Capital Territory,59,36,40.6,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2007,Females,Northern Territory,20,24.6,26.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2007,Females,Australia,4403,39,44.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2007,Persons,New South Wales,3547,48.4,58.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2007,Persons,Victoria,2174,39.8,47.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2007,Persons,Queensland,2719,65.2,76.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2007,Persons,Western Australia,987,46.6,55.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2007,Persons,South Australia,622,34.8,40.6,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2007,Persons,Tasmania,237,41.9,49.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2007,Persons,Australian Capital Territory,131,43.3,51,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2007,Persons,Northern Territory,50,30.6,34.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2007,Persons,Australia,10440,47.7,56.6,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2008,Males,New South Wales,2154,61,75.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2008,Males,Victoria,1247,47.6,58.6,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2008,Males,Queensland,1773,86.3,104.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2008,Males,Western Australia,661,63.7,78.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2008,Males,South Australia,413,48.1,59.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2008,Males,Tasmania,163,59.7,71,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2008,Males,Australian Capital Territory,76,54.3,66.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2008,Males,Northern Territory,29,35.5,41.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2008,Males,Australia,6528,61.6,75.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2008,Females,New South Wales,1489,38.3,44.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2008,Females,Victoria,981,33.9,38.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2008,Females,Queensland,1196,54.7,61.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2008,Females,Western Australia,425,37.9,44.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2008,Females,South Australia,325,34.2,39.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2008,Females,Tasmania,114,41.1,45.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2008,Females,Australian Capital Territory,62,37.4,42,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2008,Females,Northern Territory,20,25.5,28.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2008,Females,Australia,4608,39.9,45.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2008,Persons,New South Wales,3643,48.5,58.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2008,Persons,Victoria,2228,39.9,47.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2008,Persons,Queensland,2969,69.3,81.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2008,Persons,Western Australia,1086,49.8,59.6,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2008,Persons,South Australia,738,40.1,47.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2008,Persons,Tasmania,277,49.3,56.6,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2008,Persons,Australian Capital Territory,139,44.7,52.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2008,Persons,Northern Territory,49,30.9,35.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2008,Persons,Australia,11136,49.6,58.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2009,Males,New South Wales,2190,60.5,74.6,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2009,Males,Victoria,1333,49.8,61.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2009,Males,Queensland,1786,84.7,102.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2009,Males,Western Australia,640,59.4,73.6,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2009,Males,South Australia,381,44.2,53.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2009,Males,Tasmania,160,57.9,68.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2009,Males,Australian Capital Territory,77,53.6,65.6,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2009,Males,Northern Territory,30,36.3,43,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2009,Males,Australia,6602,60.8,74.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2009,Females,New South Wales,1534,38.7,45.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2009,Females,Victoria,1047,34.9,40.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2009,Females,Queensland,1267,56.6,64.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2009,Females,Western Australia,399,34.4,39.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2009,Females,South Australia,289,29.7,34.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2009,Females,Tasmania,115,39.3,43.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2009,Females,Australian Capital Territory,57,33.7,37.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2009,Females,Northern Territory,20,27.3,31.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2009,Females,Australia,4710,39.8,45.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2009,Persons,New South Wales,3724,48.6,58.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2009,Persons,Victoria,2380,41.5,49.6,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2009,Persons,Queensland,3053,69.6,82,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2009,Persons,Western Australia,1039,46.1,55.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2009,Persons,South Australia,670,36.3,43.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2009,Persons,Tasmania,275,47.9,55.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2009,Persons,Australian Capital Territory,135,42.3,49.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2009,Persons,Northern Territory,50,32.3,38.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2009,Persons,Australia,11312,49.3,58.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2010,Males,New South Wales,2335,63.1,78.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2010,Males,Victoria,1304,47.1,58,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2010,Males,Queensland,1847,85.3,104.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2010,Males,Western Australia,650,59.1,73.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2010,Males,South Australia,386,43.4,52.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2010,Males,Tasmania,158,54.8,66.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2010,Males,Australian Capital Territory,74,50.7,62.6,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2010,Males,Northern Territory,32,39.3,46.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2010,Males,Australia,6804,61,75.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2010,Females,New South Wales,1563,38.5,45.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2010,Females,Victoria,972,31.8,37,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2010,Females,Queensland,1270,54.6,62.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2010,Females,Western Australia,389,32.6,38,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2010,Females,South Australia,313,31.6,36.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2010,Females,Tasmania,134,45,50.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2010,Females,Australian Capital Territory,50,28.6,32.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2010,Females,Northern Territory,21,26.3,30.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2010,Females,Australia,4709,38.7,45,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2010,Persons,New South Wales,3898,49.7,60.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2010,Persons,Victoria,2276,38.7,46.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2010,Persons,Queensland,3117,68.9,81.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2010,Persons,Western Australia,1039,44.8,54.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2010,Persons,South Australia,699,36.8,43.6,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2010,Persons,Tasmania,292,49.4,57.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2010,Persons,Australian Capital Territory,124,38.4,45.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2010,Persons,Northern Territory,53,33.1,38.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2010,Persons,Australia,11513,48.9,58.6,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2011,Males,New South Wales,2398,62.6,78.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2011,Males,Victoria,1172,41,50.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2011,Males,Queensland,1925,85.6,104.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2011,Males,Western Australia,667,58.6,72.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2011,Males,South Australia,404,43.7,53.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2011,Males,Tasmania,132,45,54.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2011,Males,Australian Capital Territory,76,50.6,62.6,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2011,Males,Northern Territory,33,41.3,49.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2011,Males,Australia,6803,59,72.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2011,Females,New South Wales,1616,39.2,46.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2011,Females,Victoria,900,28.6,33.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2011,Females,Queensland,1381,58.2,66.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2011,Females,Western Australia,449,36.2,42.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2011,Females,South Australia,290,28.7,33.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2011,Females,Tasmania,129,43.2,49.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2011,Females,Australian Capital Territory,48,26.9,30.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2011,Females,Northern Territory,22,26.9,31.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2011,Females,Australia,4842,39,45.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2011,Persons,New South Wales,4014,49.8,60.6,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2011,Persons,Victoria,2072,34.3,41.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2011,Persons,Queensland,3306,71.1,84.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2011,Persons,Western Australia,1116,46.5,56.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2011,Persons,South Australia,694,35.7,43,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2011,Persons,Tasmania,261,43.5,51.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2011,Persons,Australian Capital Territory,124,37.5,44.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2011,Persons,Northern Territory,55,34.5,41,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2011,Persons,Australia,11645,48.1,57.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2012,Males,New South Wales,2489,63.8,79.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2012,Males,Victoria,1291,44.2,54.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2012,Males,Queensland,2017,87.9,107.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2012,Males,Western Australia,696,58.9,73.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2012,Males,South Australia,394,41.8,51.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2012,Males,Tasmania,146,48.8,57.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2012,Males,Australian Capital Territory,79,51.2,64.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2012,Males,Northern Territory,37,46.4,56.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2012,Males,Australia,7156,60.7,74.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2012,Females,New South Wales,1699,40.4,47.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2012,Females,Victoria,987,30.7,35.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2012,Females,Queensland,1428,58.3,67.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2012,Females,Western Australia,453,35.8,41.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2012,Females,South Australia,305,30.3,35.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2012,Females,Tasmania,109,34,40.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2012,Females,Australian Capital Territory,54,29.2,33.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2012,Females,Northern Territory,23,28.7,34.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2012,Females,Australia,5083,39.9,46.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2012,Persons,New South Wales,4188,51.1,61.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2012,Persons,Victoria,2278,36.8,44.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2012,Persons,Queensland,3445,72.2,86,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2012,Persons,Western Australia,1149,46.5,56.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2012,Persons,South Australia,699,35.5,42.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2012,Persons,Tasmania,255,41.3,48.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2012,Persons,Australian Capital Territory,132,38.9,47,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2012,Persons,Northern Territory,60,38.3,46.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2012,Persons,Australia,12239,49.5,59.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2013,Males,New South Wales,2540,63.7,79.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2013,Males,Victoria,1329,44.2,55.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2013,Males,Queensland,2168,91.1,112.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2013,Males,Western Australia,785,65.2,80.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2013,Males,South Australia,438,45.7,57.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2013,Males,Tasmania,138,45.7,55.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2013,Males,Australian Capital Territory,81,50.4,63.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2013,Males,Northern Territory,39,46.9,58.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2013,Males,Australia,7533,62.2,77.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2013,Females,New South Wales,1767,41,48.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2013,Females,Victoria,1000,30.1,35.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2013,Females,Queensland,1528,61.7,69.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2013,Females,Western Australia,535,41.3,49.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2013,Females,South Australia,286,28,32.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2013,Females,Tasmania,136,43.5,49.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2013,Females,Australian Capital Territory,54,29,34,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2013,Females,Northern Territory,24,29.3,35.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2013,Females,Australia,5340,41.1,47.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2013,Persons,New South Wales,4307,51.5,62.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2013,Persons,Victoria,2329,36.5,44.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2013,Persons,Queensland,3696,75.5,89.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2013,Persons,Western Australia,1320,52.4,63.6,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2013,Persons,South Australia,724,36,43.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2013,Persons,Tasmania,274,44,51.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2013,Persons,Australian Capital Territory,135,38.6,47,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2013,Persons,Northern Territory,63,38.8,47.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2013,Persons,Australia,12873,50.8,61.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2014,Males,New South Wales,2558,63.2,78.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2014,Males,Victoria,1401,45.4,56.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2014,Males,Queensland,2205,90.6,111.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2014,Males,Western Australia,774,61.9,77.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2014,Males,South Australia,482,49.6,61.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2014,Males,Tasmania,163,51.2,63.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2014,Males,Australian Capital Territory,81,49.8,62.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2014,Males,Northern Territory,43,52.1,65.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2014,Males,Australia,7718,62.3,77.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2014,Females,New South Wales,1797,41.1,48.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2014,Females,Victoria,1064,31.5,36.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2014,Females,Queensland,1505,59.1,67.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2014,Females,Western Australia,532,40.3,47,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2014,Females,South Australia,313,30.1,35.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2014,Females,Tasmania,169,51.3,60.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2014,Females,Australian Capital Territory,63,33,38.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2014,Females,Northern Territory,25,28.1,33.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2014,Females,Australia,5486,41.4,48.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2014,Persons,New South Wales,4355,51.2,61.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2014,Persons,Victoria,2465,37.8,45.6,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2014,Persons,Queensland,3710,73.7,88.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2014,Persons,Western Australia,1306,50.3,60.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2014,Persons,South Australia,795,39,47,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2014,Persons,Tasmania,332,51,61.6,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2014,Persons,Australian Capital Territory,144,40.3,49.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2014,Persons,Northern Territory,68,40.7,50.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2014,Persons,Australia,13204,51,61.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2015,Males,New South Wales,2581,61.7,77.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2015,Males,Victoria,1532,48.2,60.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2015,Males,Queensland,2195,88.2,107.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2015,Males,Western Australia,900,71.2,88.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2015,Males,South Australia,474,47.6,59,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2015,Males,Tasmania,166,52,64.6,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2015,Males,Australian Capital Territory,84,49.5,62.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2015,Males,Northern Territory,48,55.7,69.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2015,Males,Australia,8014,63.1,78.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2015,Females,New South Wales,1778,39.9,47.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2015,Females,Victoria,1161,33.7,39.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2015,Females,Queensland,1561,59.5,68.6,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2015,Females,Western Australia,670,49.3,58,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2015,Females,South Australia,295,27.4,32.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2015,Females,Tasmania,136,42.5,48.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2015,Females,Australian Capital Territory,70,35.8,42.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2015,Females,Northern Territory,27,31.2,37.6,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2015,Females,Australia,5711,42.2,49.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2015,Persons,New South Wales,4359,49.9,61,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2015,Persons,Victoria,2693,40.3,48.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2015,Persons,Queensland,3756,73,86.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2015,Persons,Western Australia,1570,59.5,72.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2015,Persons,South Australia,769,36.7,44.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2015,Persons,Tasmania,302,46.6,55.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2015,Persons,Australian Capital Territory,153,41.7,51,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2015,Persons,Northern Territory,75,44.2,54.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2015,Persons,Australia,13725,51.9,62.6,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2016,Males,New South Wales,2857,67.1,83.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2016,Males,Victoria,1569,48.1,59.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2016,Males,Queensland,2331,91.3,111.6,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2016,Males,Western Australia,919,70.3,86.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2016,Males,South Australia,463,45.6,55.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2016,Males,Tasmania,186,59.1,71.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2016,Males,Australian Capital Territory,92,52.7,66.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2016,Males,Northern Territory,54,58.5,73.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2016,Males,Australia,8497,65.4,80.6,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2016,Females,New South Wales,1926,42.4,49.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2016,Females,Victoria,1253,35.4,41.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2016,Females,Queensland,1633,60.5,70.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2016,Females,Western Australia,626,45.6,53.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2016,Females,South Australia,343,31.6,37.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2016,Females,Tasmania,148,45.5,52.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2016,Females,Australian Capital Territory,75,37.7,44.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2016,Females,Northern Territory,28,31.9,38.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2016,Females,Australia,6040,43.6,51,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2016,Persons,New South Wales,4783,53.8,65.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2016,Persons,Victoria,2822,41.2,49.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2016,Persons,Queensland,3964,75.1,89.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2016,Persons,Western Australia,1545,57.3,69.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2016,Persons,South Australia,806,38.1,45.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2016,Persons,Tasmania,334,51.9,61.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2016,Persons,Australian Capital Territory,167,44.3,54.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2016,Persons,Northern Territory,82,46.1,57.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2016,Persons,Australia,14537,53.7,64.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2017,Males,New South Wales,2967,68.1,84.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2017,Males,Victoria,1673,50,62,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2017,Males,Queensland,2475,94,114.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2017,Males,Western Australia,870,65.1,81.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2017,Males,South Australia,469,45.5,55.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2017,Males,Tasmania,180,54,66.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2017,Males,Australian Capital Territory,107,59.4,74.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2017,Males,Northern Territory,52,56.8,71.6,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2017,Males,Australia,8825,66.2,81.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2017,Females,New South Wales,1953,42.2,49.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2017,Females,Victoria,1309,35.9,42.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2017,Females,Queensland,1675,61.1,70.6,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2017,Females,Western Australia,592,41.5,49.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2017,Females,South Australia,334,30.1,35.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2017,Females,Tasmania,159,46.6,53.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2017,Females,Australian Capital Territory,77,37.8,44.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2017,Females,Northern Territory,29,32.3,39.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2017,Females,Australia,6137,43.3,50.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2017,Persons,New South Wales,4920,54.3,66,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2017,Persons,Victoria,2982,42.3,51.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2017,Persons,Queensland,4150,76.6,91,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2017,Persons,Western Australia,1462,52.6,64.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2017,Persons,South Australia,803,37.3,45,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2017,Persons,Tasmania,339,49.8,59.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2017,Persons,Australian Capital Territory,184,47.5,58.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2017,Persons,Northern Territory,81,45.2,56.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2017,Persons,Australia,14962,54,65.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2018,Males,New South Wales,2984,67.5,83.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2018,Males,Victoria,1763,51.4,63.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2018,Males,Queensland,2343,86.5,106.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2018,Males,Western Australia,863,62.7,77.6,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2018,Males,South Australia,479,44.6,56,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2018,Males,Tasmania,205,59.9,72.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2018,Males,Australian Capital Territory,114,61.6,77.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2018,Males,Northern Territory,52,56.6,71.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2018,Males,Australia,8814,64.6,79.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2018,Females,New South Wales,2022,43.4,50.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2018,Females,Victoria,1311,35.1,41.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2018,Females,Queensland,1735,61.3,71,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2018,Females,Western Australia,626,43,51.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2018,Females,South Australia,310,27.6,32.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2018,Females,Tasmania,196,57.5,66.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2018,Females,Australian Capital Territory,81,38.4,45.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2018,Females,Northern Territory,30,31.9,37.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2018,Females,Australia,6320,43.7,51.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2018,Persons,New South Wales,5006,54.6,65.8,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2018,Persons,Victoria,3075,42.6,51.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2018,Persons,Queensland,4078,73.2,87.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2018,Persons,Western Australia,1489,52.3,63.6,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2018,Persons,South Australia,789,35.4,43.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2018,Persons,Tasmania,401,58.5,68.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2018,Persons,Australian Capital Territory,195,48.9,59.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2018,Persons,Northern Territory,83,44.5,54.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2018,Persons,Australia,15135,53.4,64.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2019,Males,New South Wales,3003,66.4,82.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2019,Males,Victoria,1631,46.3,57.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2019,Males,Queensland,2602,93.1,114,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2019,Males,Western Australia,949,66.2,82.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2019,Males,South Australia,546,50,62.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2019,Males,Tasmania,224,65.8,78.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2019,Males,Australian Capital Territory,120,62.8,78.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2019,Males,Northern Territory,55,59.6,75,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2019,Males,Australia,9134,65.2,80.6,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2019,Females,New South Wales,2075,43.3,51.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2019,Females,Victoria,1201,31.5,37.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2019,Females,Queensland,1845,63.8,73.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2019,Females,Western Australia,680,44.8,53.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2019,Females,South Australia,358,30.2,36.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2019,Females,Tasmania,188,55,61.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2019,Females,Australian Capital Territory,86,39.5,46.9,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2019,Females,Northern Territory,33,33.2,39.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2019,Females,Australia,6494,43.8,51.5,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2019,Persons,New South Wales,5078,54.1,65.6,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2019,Persons,Victoria,2832,38.3,46.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2019,Persons,Queensland,4447,77.7,92.7,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2019,Persons,Western Australia,1629,54.9,67.1,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2019,Persons,South Australia,904,39.5,48.3,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2019,Persons,Tasmania,412,60,69.4,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2019,Persons,Australian Capital Territory,205,50.1,61.2,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2019,Persons,Northern Territory,88,46.4,57,NULL,C43,NULL,NULL
+Incidence,Melanoma of the skin,2019,Persons,Australia,15628,53.8,65,NULL,C43,NULL,NULL
